@@ -14,10 +14,10 @@
             <a class="nav-link" href="#">HOME</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="main.html">ABOUT US</a>
+            <a class="nav-link" href="main.php">ABOUT US</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contact.html">CONTACT US</a>
+            <a class="nav-link" href="contact.php">CONTACT US</a>
           </li>
           <li class="nav-item">
             <a class="nav-link disabled" href="#">GALLERY</a>
